@@ -1,6 +1,8 @@
 # 🔵 The A⁺ Binaural Beats
 The A+ Website has a collection of Binaural Beats. which are a type of calming and soothing music which can help you to relax your mind🧠
 
+![](https://raw.githubusercontent.com/AshleySato899/the-a-plus/main/screenshot-theaplus.png)
+
 ## 🔗 Links and Pages
 - [🥰 Main Website](https://the-a-plus.vercel.app)
 
